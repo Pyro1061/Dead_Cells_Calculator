@@ -6,6 +6,8 @@ Dead-Cells' gameplay frequently involves finding different weapons with various 
 
 <img src="which-of-these-two-weapons.webp" width="300">                          
 
+⭐ Leave a star to support the project.
+
 <hr> 
 
 # Uma forma mais fácil de descobrir qual das armas é melhor (em questão de dano)
@@ -14,4 +16,6 @@ Esse é um código que eu fiz com a intenção de facilitar algo, foi um dos meu
 A gameplay de Dead-Cells faz com que frequentemente encontre armas diferentes com diversos atributos como Dano Base, Dano Adicional e Percentual adicional de dano, esse código serve principipalmente para ser utilizado junto do jogo para melhorar a experência.
 
 
-<img src="which-of-these-two-weapons.webp" width="300">                          
+<img src="which-of-these-two-weapons.webp" width="300">     
+
+⭐ Deixe uma estrela para apoiar o projeto 
